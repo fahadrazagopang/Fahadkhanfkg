@@ -1,0 +1,6 @@
+{
+  "name": "Toobuu Jaan - A Love Story",
+  "description": "A special romantic website for Toobuu Jaan from Fahad Raza, featuring their story, timeline, photos, love letter, and promises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
